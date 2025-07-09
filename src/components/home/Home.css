@@ -14,6 +14,13 @@
 
 .home__img {
   margin-bottom: 1.5rem;
+  width: 150px;           
+  height: 150px;          
+  object-fit: cover;      
+  border-radius: 50%;     
+  border: 3px solid #4CAF50; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px;  
 }
 
 .home__name {
@@ -26,6 +33,8 @@
   display: flex;
   column-gap: 1.75rem;
   margin: 1.5rem 0;
+  justify-content: center;
+  
 }
 
 .home__social-link {

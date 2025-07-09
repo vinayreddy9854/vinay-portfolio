@@ -10,7 +10,6 @@ import {
     RiStackLine,
     RiDraftLine,
     RiChat3Line,
-    RiFileList3Line,
     RiMoonLine,
     RiSunLine,
     RiMenu2Line,
@@ -39,12 +38,6 @@ const Sidebar = (props) => {
                             <li className="nav__item">
                                 <a href="#about" className="nav__link">
                                     <RiUser3Line />
-                                </a>
-                            </li>
-
-                            <li className="nav__item">
-                                <a href="#services" className="nav__link">
-                                    <RiFileList3Line />
                                 </a>
                             </li>
 

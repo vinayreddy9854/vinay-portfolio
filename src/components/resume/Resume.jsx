@@ -2,8 +2,9 @@ import React, { useState } from "react";
 import "./Resume.css";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import Button from "./Button";
-
 import WorkExperience from "./WorkExperience";
+
+
 
 const Resume = () => {
     const [tabIndex, setTabIndex] = useState(0);

@@ -19,6 +19,7 @@
   transition: 0.3s;
 }
 
+
 .blog__thumb:hover .blog__img {
   transform: scale(1.1);
 }
