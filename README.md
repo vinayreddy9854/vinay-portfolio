@@ -11,7 +11,7 @@ It showcases my projects, resume, and contact details for recruiters and collabo
 - GitHub (Version Control)
 
 ## 🔗 Live Site
-[Visit Portfolio](https://vinay-portfolio.netlify.app)
+[Visit Portfolio](https://vinayreddyportfolio.netlify.app)
 
 ## 📌 Featured Projects
 - ✅ Financial Fraud Detection System
